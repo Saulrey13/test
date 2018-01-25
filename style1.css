@@ -1,0 +1,16 @@
+table, th, td {
+   border: 1px solid black;
+}
+
+ul {
+    list-style-position: inside;
+	font-size: 30px;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+	background-color: powderblue;
+}
